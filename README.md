@@ -33,5 +33,5 @@ bodyHash
 - [PHP](php-example.php)
 
 ## External Links
-- [Developer Documentation](https://finrock.readme.io/)
-- [Support](https://help.finrock.io)
+- [Developer Documentation](https://apidocs.finrock.io/)
+- [Support](mailto:support@finrock.io)
